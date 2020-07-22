@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Find Workflow Associations and History Lists</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Tue, 21 Jul 2020 11:24:09 +0200</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description>Something along the lines of a Post intro or BLUF. We are cooking with Gas now! Add-PSSnapin Microsoft.SharePoint.PowerShell -EA 0 Get-SPWebApplication | ? {$_.URL -like &amp;quot;*https*&amp;quot;}  </description>
+      <description>Find all 2010 and 2013 Workflows, their associated history lists and running instances As SharePoint 2010 Workflows are sunsetting in SharePoint Online SharePoint 2010 Workflow Retirement, it becomes even more important to inventory, rework and/or dispose of SharePoint 2010 workflows in your on premises SharePoint Farms. To that end, I have written a PowerShell script to find all workflows (2010 or 2013) and record the interesting details about the workflow in a CSV file.</description>
       
     </item>
     
